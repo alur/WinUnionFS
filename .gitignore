@@ -2,3 +2,5 @@
 /bin
 /ShellExtension/bin
 /*.opensdf
+
+/*.suo
